@@ -17,3 +17,5 @@ We can scale up the system in two ways:
 
 ---
 
+There is always a Trade off to which scaling to adopt for the use case.
+In our case we can first start with vertical scaling and then if the users still increases by a lot we can further scale them horizontally with the bigger systems.
