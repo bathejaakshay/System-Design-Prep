@@ -5,7 +5,7 @@ We can scale up the system in two ways:
 1. Vertical Scaling: Buy a more bigger system which serves all the user requests single handedly.
 2. Horizontal Scaling: Buy multiple systems that together serve all the user requests.
 
-####Key Differences b/w Horizontal and Vertical Scaling:
+#### Key Differences b/w Horizontal and Vertical Scaling:
 
 |**Horizontal Scaling**|**Vertical Scaling**|
 |:---:|:---:|
