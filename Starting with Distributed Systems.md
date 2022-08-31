@@ -1,4 +1,4 @@
-Imagine you have recently opened up a new pizza parlor with one chef. What are the key points to scale the business?
+## Imagine you have recently opened up a new pizza parlor with one chef. What are the key points to scale the business?
 
 1. To optimize the processes and increase the throughput using the same resource
     - Basically for a small scale business, instead of hiring multiple chefs we can pay more to one chef and get more work done. (Vertical Scaling)
